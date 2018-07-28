@@ -16,3 +16,5 @@ Simple **ANN** architecture are used for Pima Indian Daibetes and Titanic datase
 
 
 ###### More to come! :+1:
+
+Author- Viramya Shah
